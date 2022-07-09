@@ -14,12 +14,12 @@ The goal of this project is to show the Natural Language Processing applications
 
 Topics showed are:
 
-### [Exploratory Data Analysis](https://github.com/claudio1975/NLP_AND_INSURANCE/blob/main/NLP_EDA.ipynb):
+### [Exploratory Data Analysis](https://github.com/claudio1975/NLP_AND_INSURANCE/blob/main/NLP_EDA.ipynb)
   
 
-### [Text Analysis](https://github.com/claudio1975/NLP_AND_INSURANCE/blob/main/NLP_text_analysis.ipynb):
+### [Text Analysis](https://github.com/claudio1975/NLP_AND_INSURANCE/blob/main/NLP_text_analysis.ipynb)
   
  
-### [Topic Modelling](https://github.com/claudio1975/NLP_AND_INSURANCE/blob/main/NLP_topic_modelling.ipynb):
+### [Topic Modelling](https://github.com/claudio1975/NLP_AND_INSURANCE/blob/main/NLP_topic_modelling.ipynb)
   
   
