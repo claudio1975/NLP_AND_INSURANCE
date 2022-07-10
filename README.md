@@ -10,7 +10,6 @@ Textual analysis of claims and classification can simplify acceptance of claims 
 
 Underwriting process can be improved by a better textual assessment. NLP can categorize patients diseases and retrieves the correlation between some symptoms and the likely cost of treatment for the Insurance Company.
 
-The goal of this project is to show the Natural Language Processing applications in Insurance by disaster tweets data set from Kaggle. https://www.kaggle.com/c/nlp-getting-started 
 
 Topics showed are:
 
